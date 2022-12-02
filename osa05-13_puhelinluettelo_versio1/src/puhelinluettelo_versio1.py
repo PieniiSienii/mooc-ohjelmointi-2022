@@ -1,1 +1,1 @@
-# tee ratkaisu tänne
+print("Hello")
